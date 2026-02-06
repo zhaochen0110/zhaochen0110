@@ -1,36 +1,10 @@
-<!-- Profile README for github.com/zhaochen0110 -->
-<!-- Tips: If images fail to load sometimes, refresh or try later (rate limit). -->
-
-<h1 align="center">Hi, I'm Zhaochen 👋</h1>
-<p align="center">
-  <b>Focus:</b> Python / ML / Engineering & Research<br/>
-  <b>GitHub:</b> <a href="https://github.com/zhaochen0110">github.com/zhaochen0110</a>
-</p>
+## 💻 GitHub Profile Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zhaochen0110&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/zhaochen0110?label=Followers&style=flat" alt="followers" />
-  <img src="https://img.shields.io/github/stars/zhaochen0110?label=Stars&style=flat" alt="stars" />
+  <img width="420" src="https://raw.githubusercontent.com/zhaochen0110/zhaochen0110/profile-summary-card-output/dracula/3-stats.svg" />
+  <img width="420" src="https://raw.githubusercontent.com/zhaochen0110/zhaochen0110/profile-summary-card-output/dracula/2-most-commit-language.svg" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zhaochen0110&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhaochen0110&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=zhaochen0110&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zhaochen0110&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
+> 注意：第一次跑完 Action 后，会在分支 `profile-summary-card-output` 里生成一堆 svg。
+> 如果右边那张“Most Used Languages”文件名和这里不一致，
+> 请到该分支的 `dracula/` 目录里找到最像语言条的那张 svg，把上面第二个链接的文件名替换成实际存在的文件名即可。
